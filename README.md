@@ -1,6 +1,6 @@
 # Portfolio-Projects
  --------------------->
-- welcome to my one of the Django Project these are the samples of my project output i add it below! for more doubt i add source code file above!Checkm this out
+- Welcome to my one of the Django Project these are the samples of my project output i add it below! for more doubt i add source code file above!Checkm this out
 # Welcome page :
 ![image](https://github.com/hariz723/Portfolio-Project/assets/110483479/d8069195-d636-4cf5-a849-ac8940dbb3d4)
 # Login Page :
