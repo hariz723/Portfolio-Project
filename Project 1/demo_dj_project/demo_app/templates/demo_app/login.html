@@ -1,0 +1,17 @@
+
+{% extends 'demo_app/base.html' %}
+{% load crispy_forms_filters %}
+{% block form %}
+    <h3 style="color: #7E1BA4; width: 400px; position: absolute; left: 1000px; top:250px;">Login</h3>
+    <form method="post" style="width: 400px; position: absolute; left: 1000px; top:300px;"> {% csrf_token %}
+        {{ form|crispy }}
+        {% if error_messages %}
+            {% for key, message in error_messages.items %}
+                <div class="alert alert-danger" role="alert">
+                  {{key}} {{message}}
+                </div>
+            {% endfor %}
+        {% endif %}
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}
