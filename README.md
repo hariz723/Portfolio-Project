@@ -5,8 +5,6 @@ Welcome to my one of the Django Project these are the samples of my project outp
 - HTML and CSS
 - Bootstrap
 - SQlitestudio and My SQL
-# Welcome page :
-![image](https://github.com/hariz723/Portfolio-Project/assets/110483479/d8069195-d636-4cf5-a849-ac8940dbb3d4)
 # Login Page :
 ![image](https://github.com/hariz723/Portfolio-Project/assets/110483479/bbe8383d-aff2-4e67-9c0c-db25cbbb5a16)
 # Data Creation :
